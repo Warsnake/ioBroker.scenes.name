@@ -875,6 +875,7 @@ class SceneMembersForm extends React.Component {
                     { opened ? <IconFolderOpened/> : <IconFolderClosed/> }
                 </IconButton>
                 <div className={ classes.memberTitle }>{ member.id }</div>
+                <div className={ classes.memberTitle }>{ member.name }</div>
                 <div className={ classes.memberDesc }>{ member.desc || this.state.objectNames[member.id] || '' }</div>
                 <div className={ classes.memberButtons }>
                     <IconButton
