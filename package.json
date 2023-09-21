@@ -6,7 +6,7 @@
     "name": "bluefox",
     "email": "bluefox@gmail.com"
   },
-  "homepage": "https://github.com/ioBroker/ioBroker.scenes",
+  "homepage": "https://github.com/Warsnake/ioBroker.scenes.name",
   "keywords": [
     "ioBroker",
     "scenes"
@@ -29,7 +29,7 @@
     "gulp-rename": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.scenes/issues"
+    "url": "https://github.com/Warsnake/ioBroker.scenes.name/issues"
   },
   "main": "main.js",
   "files": [
